@@ -1,0 +1,6 @@
+glob2
+matplotlib
+seaborn
+opencv-python
+tensorflow
+keras
